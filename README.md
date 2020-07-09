@@ -145,7 +145,7 @@ Disciplinas do segundo semestre e seus assuntos.
   </ul>
 </details>
 
-<details><summary> <b>Física para Computação I (Física 1)</b> </summary>
+<details><summary> <b>Física para Computação I (Físicaa 1)</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
